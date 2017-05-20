@@ -19,3 +19,7 @@ This library provide us to controlling motor real time.
 
 
 I get acc/gyro data from MPU6050 and send data from Rasperry Pi to My copmputer and visualized a ~realtime
+
+level1.py(I get part of this code from someone but I cant remember) ,extra I added server side socket programming
+
+Firstly you need run level1.py in your sever computer after that you can run sudo ./pigMotor
