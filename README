@@ -13,3 +13,9 @@ Jeff supports in this way.
 
 piMotor.cpp - displays raw gyro and accel values and run Brushless DC motor for controlling
 
+
+For Motor controlling I used pigpio library http://abyz.co.uk/rpi/pigpio/ 
+This library provide us to controlling motor real time.
+
+
+I get acc/gyro data from MPU6050 and send data from Rasperry Pi to My copmputer and visualized a ~realtime
